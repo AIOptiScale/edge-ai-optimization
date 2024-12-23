@@ -22,8 +22,8 @@ numpy>=1.19.0
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/edge-ai-tools
-cd edge-ai-tools
+git clone https://github.com/yourusername/edge-ai-optimization
+cd edge-ai-optimization
 pip install -r requirements.txt
 ```
 
